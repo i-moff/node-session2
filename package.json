@@ -1,0 +1,10 @@
+{
+  "name": "session2",
+  "version": "0.0.1",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/live-server --watch='public/' --open='public/'"
+  }
+}
